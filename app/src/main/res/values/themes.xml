@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.SueoPrize" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- 여기다가 나중에 색상, 폰트 커스터마이징 하면 돼 -->
+    </style>
+
+</resources>
